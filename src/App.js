@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './components/HomePage';
 import AboutPage from './components/AboutPage';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css'
 
 function App() {
   // const [data, setData] = useState([]);
